@@ -1,0 +1,12 @@
+# Volumes
+volumes/
+
+# Environment
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
